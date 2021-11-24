@@ -8,6 +8,12 @@
     border-bottom: 1px solid #e5e5e5;
 }
 
+.cadastre-se {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border:#fff;
+}
+
 footer p a {
     margin: 5px 15px;
     font-weight: 600;
